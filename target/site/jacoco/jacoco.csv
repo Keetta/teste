@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+aula-testes,com.aula.testesautomatizados,AulaTestesApplication,8,0,0,0,3,0,2,0,2,0
+aula-testes,com.aula.testesautomatizados.service,CalculadoraService,17,11,1,1,4,3,4,2,3,2
+aula-testes,com.aula.testesautomatizados.infra.spring,BeansConfig,7,0,0,0,2,0,2,0,2,0
+aula-testes,com.aula.testesautomatizados.controller,CalculadoraController,0,46,0,0,0,7,0,5,0,5

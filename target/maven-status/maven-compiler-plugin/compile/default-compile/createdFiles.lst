@@ -1,0 +1,4 @@
+com\aula\testesautomatizados\AulaTestesApplication.class
+com\aula\testesautomatizados\infra\spring\BeansConfig.class
+com\aula\testesautomatizados\controller\CalculadoraController.class
+com\aula\testesautomatizados\service\CalculadoraService.class
